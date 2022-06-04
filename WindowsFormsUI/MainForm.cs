@@ -24,6 +24,7 @@ namespace WindowsFormsUI
             _loginLogService = InstanceFactory.GetInstance<ILoginLogService>();
         }
 
+
         private ICustomerService _customerService;
         private ILoginLogService _loginLogService;
         private void MainForm_Load(object sender, EventArgs e)
