@@ -58,7 +58,7 @@
 | --- | --- |
 | ![Chauffeur - Login](https://github.com/user-attachments/assets/5ef09a24-46d9-4581-9b84-c4f516f8b854) | ![Chauffeur - Dashboard](https://github.com/user-attachments/assets/b8b846c7-9cee-4314-9381-3220ee5ee59d) |
 
-| Chauffeur - Customer Tickets | Customer Tickets |
+| Chauffeur - Customer Tickets | Chauffeur - Customer Tickets |
 | --- | --- |
 | ![Chauffeur - Customer Tickets](https://github.com/user-attachments/assets/593718a9-d0f5-42ae-a0f7-2d8b0a7476ee) | ![Chauffeur - Customer Tickets](https://github.com/user-attachments/assets/38bba5f8-e918-4ae2-baf9-0174dfef0894) |
 
