@@ -45,3 +45,65 @@ Profile and Settings
 
 
 
+
+Admin - Login
+![AdminLogin](https://github.com/user-attachments/assets/f1dbae04-9df0-4a41-adfa-09ea10420dc5)
+
+Admin - Dashboard
+![Admin1](https://github.com/user-attachments/assets/878f5470-cf72-4e49-91f3-721f016ae638)
+
+Admin - Users
+![Admin2](https://github.com/user-attachments/assets/9e71abd0-f561-4103-887e-b3630d39c429)
+
+Admin - Tickets
+![Admin3](https://github.com/user-attachments/assets/24f96034-0aa4-4743-bbee-b7c113432ef2)
+
+Admin - Vehicles
+![Admin4](https://github.com/user-attachments/assets/989804c7-7b93-49bf-af7b-1107c595f758)
+
+Admin - Chauffeurs
+![Admin5](https://github.com/user-attachments/assets/9fca52ac-760a-4fd0-9277-d14e3d60942c)
+
+Admin - Logs
+![Admin6](https://github.com/user-attachments/assets/fda9a292-f1de-413e-b780-f1d5d17f8c22)
+
+Admin - Login Logs
+![Admin7](https://github.com/user-attachments/assets/722aa4db-b1f2-4ce8-9ec5-417c7fedb40e)
+
+Admin - Transaction Logs
+![Admin8](https://github.com/user-attachments/assets/3cb71d4b-1d00-4aea-8661-9188827d7524)
+
+Admin - Statistics
+![Admin9](https://github.com/user-attachments/assets/da9ed782-5f49-461a-b42f-7daf2f0c886c)
+
+Admin - Archives
+![Admin10](https://github.com/user-attachments/assets/24d1ee47-afb6-4f4d-8556-fedfb8257845)
+
+Admin - Deleted Users Archive
+![Admin11](https://github.com/user-attachments/assets/f2e16ba9-6212-4026-84e5-c7bc0de78b44)
+
+Admin - Deleted Ticket Archive
+![Admin12](https://github.com/user-attachments/assets/31025fcc-57a7-4e14-970a-12860328d57d)
+
+Admin - Profile and Settings
+![Admin13](https://github.com/user-attachments/assets/6fd245ef-1ce2-4e38-9a43-dab327a37b25)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
