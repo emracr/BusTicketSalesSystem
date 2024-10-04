@@ -1,3 +1,20 @@
+<h1 align="center">Bus Ticket Sales System</h1>
+
+<p>Platform: <b>Desktop</b></p>
+<p>Backend: <b>Windows Form</b></p>
+<p>Architecture: <b>NLayared</b></p>
+<p>ORM: <b>Entity Framework</b></p>
+<p>Database: <b>MSSQL Server</b></p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left" witdh="320" height="320">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#"> 
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
+</p>
+
+<h3 align="left">Project Images</h3>
+
 | Login | Register |
 | --- | --- |
 | ![Login](https://github.com/user-attachments/assets/0bb3820e-a0a5-40aa-b895-c7cb13914a44) | ![Register](https://github.com/user-attachments/assets/8f48848c-8fa3-4d11-a94e-283f29c7c337) |
