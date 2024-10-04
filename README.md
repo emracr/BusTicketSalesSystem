@@ -10,7 +10,7 @@
 <p align="left" witdh="320" height="320">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#"> 
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&amp;logo=.net&amp;logoColor=white" alt=".Net"> 
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer">
+  <img src="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/0_h6jttyi7/def_height/2700/def_width/2700/version/100012/type/1" alt="DevExpress">
 </p>
 
 <h3 align="left">Project Images</h3>
